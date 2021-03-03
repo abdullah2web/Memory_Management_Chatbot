@@ -39,6 +39,8 @@ wx/image.h
 -
 string
 -
+memory
+-
 chatbot.h
 /Users/abdullahalshayie/Desktop/Project3/ChatBot/src/chatbot.h
 chatlogic.h
@@ -47,6 +49,8 @@ chatgui.h
 /Users/abdullahalshayie/Desktop/Project3/ChatBot/src/chatgui.h
 
 /Users/abdullahalshayie/Desktop/Project3/ChatBot/src/chatgui.h
+memory
+-
 wx/wx.h
 -
 
@@ -101,6 +105,8 @@ graphnode.h
 /Users/abdullahalshayie/Desktop/Project3/ChatBot/src/graphnode.h
 
 /Users/abdullahalshayie/Desktop/Project3/ChatBot/src/graphnode.h
+memory
+-
 vector
 -
 string
